@@ -1,0 +1,2 @@
+"Hello, world!" - Computer
+"To be or not to be" - Shakespeare
