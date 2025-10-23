@@ -1,2 +1,3 @@
 "Hello, world!" - Computer
 "To be or not to be" - Shakespeare
+"Stay hungry, stay foolish." - Steve Jobs
